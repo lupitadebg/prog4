@@ -1,0 +1,40 @@
+#form{
+	text-align:center;
+	background-color: #ECEFF1;
+	border: 2px solid black;}
+p.centrado{
+	text-align:center;
+
+}
+h1{
+font-family: "Times New Roman";
+text-align:center;
+background-color: pink;
+font-size:50px;
+}
+h3{
+	text-align:center;
+	font-weight: bold;
+	font-family: "Cooper Black";
+	background-color: pink;
+}
+h2{
+	font-weight: bold;
+	font-family: "Times New Roman";
+	font-size:30px;
+
+}
+hr{ 
+   height: 8px; 
+   width: 55%; 
+   background-color: rgb(240, 230, 140);
+}
+a{
+	font-family: "Arial";
+	font-size:25px;
+}
+p{
+	font-weight: bold;
+	font-family: "Times New Roman";
+	font-size:30px;
+}
